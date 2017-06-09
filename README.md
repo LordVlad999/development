@@ -1,7 +1,7 @@
 # New textures for minetest.
 Changes:
 
-upgrade2chests: chests from technic mod, but with modified textures, not include technic mod.
+upgrade2chests: chests of Iron,Gold,Copper,Silver and Mithril,modified from technic mod, but with modified textures, not include technic mod.
 
 building_blocks: tar is created crafting adobe, original version needs cooking gravel to make tar, same craft than asphalt in streets mod.
 
